@@ -1,1 +1,1 @@
-ucsd ece
+ece
